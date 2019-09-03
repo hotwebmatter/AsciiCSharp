@@ -6,6 +6,9 @@ ASCII art C# provided via:
 ```
 figlet -W -f big C#
 ```
+
+For more info on FIGlet, see: http://www.figlet.com
+
 # Example output
 
 ```
