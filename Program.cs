@@ -1,6 +1,3 @@
-﻿using System;
-using static System.Console;
-
 /**
  * ######################################################
  * ##    Programming Assignment #4                     ##
@@ -9,6 +6,9 @@ using static System.Console;
  * ##    Purpose: Generate ASCII art C# outoput.       ##
  * ######################################################
  */
+
+using System;
+using static System.Console;
 
 namespace AsciiCSharp
 {
